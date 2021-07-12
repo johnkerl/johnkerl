@@ -7,4 +7,4 @@ Hello! Click [here](http://johnkerl.org/kerl-resume.pdf) for more about my on-th
 
 Languages in these repos include C, Java, Python, Ruby, Perl, Bash, Go, PHP, and JavaScript, with a tiny dab of ancient LISP.
 
-At the moment (mid-2020) I’m having splendid amounts of fun learning about all things JS, server-side (Node) and client-side (Vue, React, TS, Flow), as well as generationally (ES5 vs ES6). But my first open-source priority at the moment is finishing the [Miller Go port](https://github.com/johnkerl/miller/blob/main/go/README.md).
+My first open-source priority at the moment is finishing the [Miller Go port](https://github.com/johnkerl/miller/blob/main/go/README.md).
