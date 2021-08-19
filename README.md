@@ -1,4 +1,4 @@
-Hello! Click [here](http://johnkerl.org/kerl-resume.pdf) for more about my on-the-job work. What you'll see here at GitHub is primarily things I’ve written for myself:
+Hello! See my [resumé](http://johnkerl.org/kerl-resume.pdf) for more about my on-the-job work. What you'll see here at GitHub is primarily things I’ve written for myself:
 
 * my development toolkit (such as interlaced [scripts](https://github.com/johnkerl/scripts) and [dotfiles](https://github.com/johnkerl/dotfiles));
 * some mathematical projects from graduate school (such as [iff2](https://github.com/johnkerl/iff2), [ruffl](https://github.com/johnkerl/ruffl), and [sack](https://github.com/johnkerl/sack));
