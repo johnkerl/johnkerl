@@ -8,3 +8,7 @@ Hello! See my [resumé](https://www.linkedin.com/in/johnkerl/) for more about my
 Languages in these repos include C++, C, Java, Python, Ruby, Perl, Bash, Go, PHP, and JavaScript, with a tiny dab of ancient LISP.
 
 My main open-source priority at the moment is maintaining [Miller](https://miller.readthedocs.io/en/latest/).
+
+My GitHub stats:
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=johnkerl)](https://github.com/anuraghazra/github-readme-stats)
